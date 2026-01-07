@@ -1,0 +1,5 @@
+{
+  "name": "AssetMatch Pro",
+  "description": "一个安全、本地优先的终端资产数据比对工具（TQ vs DDR）。具备智能字段映射、差异可视化以及 AI 辅助的缺失资产模式分析功能。",
+  "requestFramePermissions": []
+}
